@@ -186,7 +186,7 @@ Infrastructure Azure avec Terraform
 # 🏗 Structure du Dépôt
 
 ```
-azure-zero-to-hero-30-days/
+azure-devops-bootcamp-zero-a-expert/
 │
 ├── docs/
 ├── projects/
