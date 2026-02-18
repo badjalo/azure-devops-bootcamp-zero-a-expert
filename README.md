@@ -8,6 +8,7 @@
 
 > **Un programme complet et pratique pour devenir ingénieur Azure / DevOps prêt pour la production en 30 jours.**
 
+Pour integrer le groupe d'echange ![formulaire](https://docs.google.com/forms/d/1OCo_jFFlbr6IabfvtXvZxUW9jvgZOp1LuMED33mV0D4/edit)
 ---
 
 ## 📌 Présentation
