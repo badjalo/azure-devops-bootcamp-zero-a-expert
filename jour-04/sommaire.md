@@ -1,0 +1,16 @@
+## Sommaire
+
+1. [Introduction à la virtualisation et aux VM Azure](#1-introduction-à-la-virtualisation-et-aux-vm-azure)
+2. [Azure Spot : exécution à prix réduit](#2-azure-spot--exécution-à-prix-réduit)
+3. [Présentation des familles de VM Azure](#3-présentation-des-familles-de-vm-azure)
+4. [Famille B – Burstable (économique)](#4-famille-b--burstable-économique)
+5. [Famille D – General purpose (polyvalente)](#5-famille-d--general-purpose-polyvalente)
+6. [Famille E – Memory optimized (mémoire optimisée)](#6-famille-e--memory-optimized-mémoire-optimisée)
+7. [Famille F – Compute optimized (calcul optimisé)](#7-famille-f--compute-optimized-calcul-optimisé)
+8. [Famille H – High Performance Computing (HPC)](#8-famille-h--high-performance-computing-hpc)
+9. [Famille L – Storage optimized (stockage optimisé)](#9-famille-l--storage-optimized-stockage-optimisé)
+10. [Famille M – Memory ultra-optimized (mémoire ultra optimisée)](#10-famille-m--memory-ultra-optimized-mémoire-ultra-optimisée)
+11. [Famille N – GPU accelerated (accélération graphique)](#11-famille-n--gpu-accelerated-accélération-graphique)
+12. [VM Scale Sets : mise à l’échelle automatique](#12-vm-scale-sets--mise-à-léchelle-automatique)
+13. [Azure Cloud Shell](#13-azure-cloud-shell)
+14. [Exemple pratique : Déployer Jenkins sur une VM](#14-exemple-pratique--déployer-jenkins-sur-une-vm)
